@@ -1,6 +1,6 @@
 The article is being published in collaboration with JLCPCB. They supply high quality PCBs at a very reasonable price. They also can provide SMT circuit assembly.
 
-The final circuit diagram and design can be seen above. We also thank to our sponsor JLCPCB (https://jlcpcb.com/RTA) for sponsoring us PCB for this project.
+The final circuit diagram and design can be seen above. We also thank to our sponsor JLCPCB https://jlcpcb.com/RTA for sponsoring us PCB for this project.
 
 Thanks to JLCPCB.
 
